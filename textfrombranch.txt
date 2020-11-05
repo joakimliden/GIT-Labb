@@ -1,0 +1,5 @@
+commit 9fe47407f69448a34f91ff1da64f60416dc91642 (HEAD -> newbranch, master)
+Author: Your Name <joakim.liden@iths.se>
+Date:   Thu Nov 5 20:14:30 2020 +0100
+
+    includes README and .gitignore
